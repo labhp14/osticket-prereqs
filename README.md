@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="file:///Users/labhpatel/Documents/Course%20Careers%20IT%20Labs/Lab%203%20Ticketing%20Systems%20(osTicket)%20/osTicket%20Installation/Pic-1-Create-Azure-VM.png" height="80%" width="80%" alt="Pic-1"/>
+<img src="![image](https://github.com/user-attachments/assets/28a3b138-57cd-4a58-b763-3f8a3ffac29f)" height="80%" width="80%" alt="Pic-1"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
